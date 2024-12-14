@@ -525,4 +525,4 @@ for i, img in enumerate(images, 1):
 
 # Footer
 st.markdown("---")
-st.markdown("تم الإنشاء مع ❤️ بواسطة أحمد ريان")
+st.markdown(تم الإنشاء مع ❤️ ن")
